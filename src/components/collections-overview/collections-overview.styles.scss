@@ -1,4 +1,10 @@
 .collections-overview {
     display: flex;
     flex-direction: column;
+
+    .preview {
+        grid-gap: 10px;
+    
+        
+      }
 }
